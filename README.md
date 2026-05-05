@@ -1,35 +1,41 @@
 # 👋 Hola, soy José Navarro
 
-Backend Developer especializado en Node.js y arquitecturas serverless en AWS.
+🚀 Backend Developer especializado en Node.js y arquitecturas serverless en AWS.
 
-## 🚀 Sobre mí
-Desarrollo APIs escalables y soluciones backend en la nube utilizando AWS Lambda, DynamoDB y Serverless Framework.
+## 🧠 Sobre mí
+Desarrollo APIs escalables y soluciones backend en la nube utilizando AWS Lambda, DynamoDB y arquitecturas event-driven.
 
-Tengo experiencia trabajando en entornos productivos con arquitecturas event-driven, optimizando rendimiento y costos.
+Experiencia trabajando en entornos productivos (sector seguros) construyendo sistemas eficientes, resilientes y de bajo costo.
 
-## 🛠️ Tecnologías
-- Node.js
-- TypeScript
-- AWS Lambda
+## ⚡ Stack principal
+- Node.js / TypeScript
+- AWS Lambda / API Gateway
 - DynamoDB
-- API Gateway
-- Serverless Framework
+- Serverless Framework / CDK
 - SQS / SNS / Step Functions
 
-## 💼 Experiencia
+## 💼 Experiencia destacada
 Backend Developer en Softtek (cliente: Rímac Seguros)
 
-- Desarrollo de APIs REST en Node.js
+- Desarrollo de APIs REST escalables
 - Arquitecturas serverless en AWS
-- Procesamiento de eventos con SQS y Step Functions
-- Infraestructura como código con CDK
+- Procesamiento de eventos (event-driven)
+- Infraestructura como código
 
-## 📂 Proyectos destacados
-- 🚀 API Serverless con Node.js y AWS  
-  👉 https://github.com/JoseL26/API_Node  
+## 🚀 Proyectos destacados
 
-- 📄 Documentación con Swagger  
-  👉 https://github.com/JoseL26/Documentacion_agendamiento_cita_medica  
+### 🔹 Serverless API (Node.js + AWS)
+Backend desplegado en AWS Lambda con arquitectura escalable.
+
+👉 https://github.com/JoseL26/API_Node  
+
+### 🔹 API Documentation (Swagger)
+Documentación completa de endpoints.
+
+👉 https://github.com/JoseL26/Documentacion_agendamiento_cita_medica  
+
+## 📈 Enfoque
+Me especializo en construir soluciones backend listas para producción, optimizadas en rendimiento y costos.
 
 ## 📫 Contacto
 Disponible para proyectos freelance 🚀
