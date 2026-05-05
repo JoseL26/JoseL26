@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy José Navarro
 
-<!--
-**JoseL26/JoseL26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer especializado en Node.js y arquitecturas serverless en AWS.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Desarrollo APIs escalables y soluciones backend en la nube utilizando AWS Lambda, DynamoDB y Serverless Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo experiencia trabajando en entornos productivos con arquitecturas event-driven, optimizando rendimiento y costos.
+
+## 🛠️ Tecnologías
+- Node.js
+- TypeScript
+- AWS Lambda
+- DynamoDB
+- API Gateway
+- Serverless Framework
+- SQS / SNS / Step Functions
+
+## 💼 Experiencia
+Backend Developer en Softtek (cliente: Rímac Seguros)
+
+- Desarrollo de APIs REST en Node.js
+- Arquitecturas serverless en AWS
+- Procesamiento de eventos con SQS y Step Functions
+- Infraestructura como código con CDK
+
+## 📂 Proyectos destacados
+- 🚀 API Serverless con Node.js y AWS  
+  👉 https://github.com/JoseL26/API_Node  
+
+- 📄 Documentación con Swagger  
+  👉 https://github.com/JoseL26/Documentacion_agendamiento_cita_medica  
+
+## 📫 Contacto
+Disponible para proyectos freelance 🚀
