@@ -38,7 +38,7 @@ Documentación completa de endpoints.
 Me especializo en construir soluciones backend listas para producción, optimizadas en rendimiento y costos.
 
 ## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/jos%C3%A9-luis-navarro-flores-802551158/
-- Email: josenf_26@hotmail.com
+📎 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-luis-navarro-flores-802551158/
+✉️ Email: josenf_26@hotmail.com
 
 Disponible para proyectos freelance 🚀
