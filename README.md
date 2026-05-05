@@ -27,7 +27,7 @@ Backend Developer en Softtek (cliente: Rímac Seguros)
 ### 🔹 Serverless API (Node.js + AWS)
 Backend desplegado en AWS Lambda con arquitectura escalable.
 
-👉 https://github.com/JoseL26/API_Node  
+👉 https://github.com/JoseL26/API_agendamiento_cita_medica  
 
 ### 🔹 API Documentation (Swagger)
 Documentación completa de endpoints.
